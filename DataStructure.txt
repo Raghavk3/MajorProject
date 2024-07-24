@@ -1,0 +1,20 @@
+Detecting Mental Disorders in Social Media Through Emotional Patterns The case of Anorexia
+
+
+Mental Disorders, Emotional Patterns, Machine Learning
+
+
+Detecting_Mental_Disorders
+
+
+detecting_mental_disorders
+
+
+Tweet_Message_Type_Prediction
+
+
+Tweet_Message
+Prediction
+
+
+Tweet_Message_Type_Prediction,detection_ratio,detection_accuracy
